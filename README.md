@@ -1,16 +1,16 @@
 # Bookmark
 
 ## Overview
-This repository is for managing bookmarks and notes efficiently. It includes a simple structure to store and organize links.
+This repository is for managing YouTube bookmarks efficiently.
 
-## Repository Link
-[Bookmark Repository](https://github.com/lienleds/bookmark/tree/main)
+## Bookmarks
+- [YouTube Video](https://www.youtube.com/watch?v=yPhq9o# Bookmark
 
-## Features
-- Save and manage bookmarks or notes.
-- Simple and user-friendly structure.
+## Overview
+This repository is for managing YouTube bookmarks efficiently.
 
-## Usage
+## Bookmarks
+- [YouTube Video](https://www.youtube.com/watch?v=yPhq9o
 1. Add your bookmarks to the `bookmarks.txt` file.
 2. Use Markdown formatting for better readability.
 
