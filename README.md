@@ -1,49 +1,19 @@
-# CommonBookmark
+# Bookmark
 
 ## Overview
-CommonBookmark is a Java-based application designed to help users save and manage bookmarks or notes efficiently. The project is built using Maven for dependency management and includes logging capabilities with SLF4J and Logback.
+This repository is for managing bookmarks and notes efficiently. It includes a simple structure to store and organize links.
+
+## Repository Link
+[Bookmark Repository](https://github.com/lienleds/bookmark/tree/main)
 
 ## Features
 - Save and manage bookmarks or notes.
-- Simple and user-friendly interface.
-- Logging for debugging and monitoring.
+- Simple and user-friendly structure.
 
-## Project Structure
-```
-CommonBookmark/
-├── src/
-│   ├── main/
-│   │   ├── java/       # Java source code
-│   │   └── resources/  # Configuration files
-│   └── test/
-│       ├── java/       # Test cases
-│       └── resources/  # Test resources
-├── pom.xml             # Maven configuration file
-└── README.md           # Project documentation
-```
+## Usage
+1. Add your bookmarks to the `bookmarks.txt` file.
+2. Use Markdown formatting for better readability.
 
-## Getting Started
-### Prerequisites
-- Java 8 or higher
-- Maven 3.6+
-
-### Build and Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd CommonBookmark
-   ```
-3. Build the project:
-   ```bash
-   mvn clean install
-   ```
-4. Run the application:
-   ```bash
-   mvn exec:java -Dexec.mainClass="com.example.commonbookmark.Main"
-   ```
-
-## License
-This project is licensed under the MIT License.
+## Additional Links
+- [GitHub Profile](https://github.com/lienleds)
+- [YouTube Video](https://www.youtube.com/watch?v=yPhq9oJPfiE)
